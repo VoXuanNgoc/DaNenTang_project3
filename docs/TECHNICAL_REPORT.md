@@ -2,9 +2,10 @@
 ## Mini-Project 3: Receipt OCR & Expense Tracker
 ### Ứng dụng Quản lý Chi tiêu và Quét Hóa đơn Thông minh (VKU Expense OCR)
 
-**Học phần:** Phát triển ứng dụng di động với Flutter (Tuần 7 & 8)  
+**Học phần:** Phát triển ứng dụng di động đa nền tảng (9)
 **Trường:** Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn (VKU)  
-**Tác giả:** Đội ngũ phát triển dự án VKU Expense OCR  
+**Họ và Tên:** Võ Xuân Ngọc 
+**Mã Sinh Viên:** 23IT180
 
 ---
 
